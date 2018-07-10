@@ -1,5 +1,5 @@
 # azure-monitor-integration
-Azure Monitor provides an integrated monitoring solution for resources on Microsoft Azure cloud infrastructure. It allows you to monitor target resource, setup alert criteria and use action groups to perform actions as a result of the alert raised by the monitor. In this xM lab integration, we leverage action groups to create an xMatter event that notify target resources. 
+Azure Monitor provides an integrated monitoring solution for resources on Microsoft Azure cloud infrastructure. It allows you to monitor target resources, setup alert criteria and use action groups to perform actions as a result of  alerts raised by the monitor. In this xM lab integration, we leverage Azure action groups to create an xMatters event that notifies target resources. 
 
 ---------
 
