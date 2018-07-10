@@ -13,7 +13,7 @@ Azure Monitor provides an integrated monitoring solution for resources on Micros
 * Azure account (https://azure.microsoft.com/) or willingness to create a trial account
 * xMatters account
 
-# Files -- TO UPDATE
+# Files
 * [AzureMonitor.zip](AzureMonitor.zip) - The comm plan
 
 # Installation
@@ -23,6 +23,7 @@ Azure Monitor provides an integrated monitoring solution for resources on Micros
 1. Load in the [AzureMonitor.zip](AzureMonitor.zip) Comm Plan
 2. Review the Form's (Azure Monitor) configuration - add a default group or user in the recipients section
 3. In the Integration Builder, look up the URL for the inbound integration "AzureUnifiedAlerts" and copy this for setting up a new Action Group in Azure
+4. Then, update the Integrated Alert form to contain the designated recipient. This could be a dummy user and recipients can be determined by adding a [Subscription Form](https://help.xmatters.com/OnDemand/xmodwelcome/communicationplanbuilder/subscriptionforms.htm?cshid=SubscriptionFormListPlace) or logic could be added to the Inbound Integration to populate the recipients array before posting the event.
 
 ## Application (Azure Monitor) set up
 
