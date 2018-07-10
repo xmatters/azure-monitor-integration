@@ -29,39 +29,39 @@ Azure Monitor provides an integrated monitoring solution for resources on Micros
 1. Login in to Azure and use the left navigation to navigate to Monitor
 1. On the dashboard page, click Create Alert 
 
-<kbd>
-  <img src="images/1.png">
-</kbd>
+    <kbd>
+    <img src="Images/1.png">
+    </kbd>
 
 1. Select a Target for the alert (e.g. a Virtual Machine in your Azure account)
 
-<kbd>
-  <img src="images/2.png">
-</kbd>
+    <kbd>
+    <img src="Images/2.png">
+    </kbd>
 
 1. Select a criteria for the target (e.g. Percentage CPU)
 
-<kbd>
-  <img src="images/3.png">
-</kbd>
+    <kbd>
+    <img src="Images/3.png">
+    </kbd>
 
 1. Fill out the Alert details information
 
-<kbd>
-  <img src="images/4.png">
-</kbd>
+    <kbd>
+    <img src="Images/4.png">
+    </kbd>
 
 1. Create a new Action Group and fill oput the details, then create a new action. 
 
-<kbd>
-  <img src="images/5.png">
-</kbd>
+    <kbd>
+    <img src="Images/5.png">
+    </kbd>
 
 1. Use Webhook as the Action Type and paste in the URL copied from the Integration Builder
 
-<kbd>
-  <img src="images/6.png">
-</kbd>
+    <kbd>
+    <img src="Images/6.png">
+    </kbd>
 
 1. Save the new Alert
    
